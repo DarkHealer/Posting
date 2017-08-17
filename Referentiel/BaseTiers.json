@@ -1,0 +1,24 @@
+
+
+[
+	{	
+
+		"Compte" : "TI 0000000LZC",
+		"NomDonneurOrdre" : "LZC",
+		"LieuDepot" : "BFR-FRANCE",
+		"Rang" : 1,
+		"DestinataireRL" : "SBI",
+		"Contrepartie": "000000000172"
+
+	}, 
+	{	
+
+		"Compte" : "TI 0000000OND",
+		"NomDonneurOrdre" : "OND",
+		"LieuDepot" : "BFR-FRANCE",
+		"Rang" : 1,
+		"DestinataireRL" : "SBI",
+		"Contrepartie": "000000000256"
+
+	}
+]

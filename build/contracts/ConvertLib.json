@@ -1,0 +1,92 @@
+{
+  "contract_name": "ConvertLib",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "amount",
+          "type": "uint256"
+        },
+        {
+          "name": "conversionRate",
+          "type": "uint256"
+        }
+      ],
+      "name": "convert",
+      "outputs": [
+        {
+          "name": "convertedAmount",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600b57fe5b5b60748061001a6000396000f300606060405263ffffffff60e060020a60003504166396e4ee3d81146020575bfe5b602c600435602435603e565b60408051918252519081900360200190f35b8181025b929150505600a165627a7a72305820429842b0355bb75c5c6c0812b11fe499d9b1b54eada761e6dc4f2f3b6ae1b1840029",
+  "networks": {
+    "1501503078458": {
+      "events": {},
+      "links": {},
+      "address": "0xe22f797eb44703343b2c6e830915a17b6901dfdd",
+      "updated_at": 1501503273825
+    },
+    "1501595685533": {
+      "events": {},
+      "links": {},
+      "address": "0xfa4eb05fbbb3cb5a09311d45b494248d46bcd1eb",
+      "updated_at": 1501597705601
+    },
+    "1501752365070": {
+      "events": {},
+      "links": {},
+      "address": "0xe3c555379e92fbbdbeef4b80fdb2738357e7847d",
+      "updated_at": 1501752842587
+    },
+    "1502116011448": {
+      "events": {},
+      "links": {},
+      "address": "0x19b5bee5e38a45a1d3db07ee010ab1317d6b3915",
+      "updated_at": 1502116195620
+    },
+    "1502186608531": {
+      "events": {},
+      "links": {},
+      "address": "0x65edb3d9509b3d07e93922a6c5234d6e32ff7a64",
+      "updated_at": 1502186740259
+    },
+    "1502203419932": {
+      "events": {},
+      "links": {},
+      "address": "0xeab582fc34888f2e3402c8e0645ea192ad8f9759",
+      "updated_at": 1502204581824
+    },
+    "1502265489333": {
+      "events": {},
+      "links": {},
+      "address": "0x0e33a7d3b30e39b10062646c1c09a6d3521426c8",
+      "updated_at": 1502265580545
+    },
+    "1502284951241": {
+      "events": {},
+      "links": {},
+      "address": "0x9a9ab1d2247fda0485b7a716d9202465f01c10fc",
+      "updated_at": 1502285000125
+    },
+    "1502287022289": {
+      "events": {},
+      "links": {},
+      "address": "0xf28666ea9447bb1e38cf04bfaca2a2fb69262cd5",
+      "updated_at": 1502287067379
+    },
+    "1502287572450": {
+      "events": {},
+      "links": {},
+      "address": "0xdb74dc382db3f04db47501b39888f29814795a88",
+      "updated_at": 1502287621937
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1502287621937
+}

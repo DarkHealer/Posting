@@ -1,0 +1,32 @@
+{
+  "contract_name": "use",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "essai",
+      "outputs": [
+        {
+          "name": "result",
+          "type": "bool"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "name": "vNombre",
+          "type": "int256"
+        }
+      ],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600b57fe5b6040516020806100bb83398101604052515b60008190555b505b6088806100336000396000f300606060405263ffffffff60e060020a6000350416631858460081146020575bfe5b3415602757fe5b602d6041565b604080519115158252519081900360200190f35b6000600054600214156054575060016058565b5060005b5b905600a165627a7a72305820a0fc9bbc05ba00004c5655154a8a79444e0e0ca0417c6ea4a219bf9d2b579f440029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1502268417430
+}

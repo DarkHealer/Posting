@@ -1,0 +1,15 @@
+
+
+[
+	{	
+		"raisonSociale" : "BANQUE DUPUY DE PARSEVAL",
+		"addresse" : "76 AVENUE DE FRANCE 75013 PARIS 13",
+		"compte" : "TI 0000000OND"
+	}, 
+
+	{
+		"raisonSociale" : "BANQUE POPULAIRE PROVENCE ET CORSE",
+		"addresse" : "76 AVENUE DE FRANCE 75013 PARIS 13",
+		"compte" : "TI 0000000OND"
+	}
+]

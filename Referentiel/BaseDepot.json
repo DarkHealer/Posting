@@ -1,0 +1,28 @@
+
+
+[
+	{	
+
+		"libelle" : "PARIS",
+		"LieuDeDepot" : "BFR",
+		"LieuCotationPlace": "025" 
+		
+
+	}, 
+	{	
+
+		"libelle" : "BRUXELLES",
+		"LieuDeDepot" : "BBE",
+		"LieuCotationPlace": "006" 
+		
+
+	}, 
+	{	
+
+		"libelle" : "AMSTERDAM",
+		"LieuDeDepot" : "BNL",
+		"LieuCotationPlace": "038" 
+		
+
+	}
+]

@@ -1,0 +1,30 @@
+
+
+
+[
+	{	
+		"raisonSociale" : "LVMH MOET HENNESSY LOUIS VUITTON",
+		"addresse" : "22 AVENUE MONTAIGNE 75008 PARIS 8",
+		"isin": "FR0000123456",
+		"LieuCotationPlace": "025", 
+		"LieuCotationMarche": "COMPTANT",
+		"LieuCotationPays": "FRANCE",
+		"deviseDeCotation": "EUR",
+		"Expression du cours": 1, 
+		"codeBareme" : "Fidessa",
+		"eligibiliteTTF": false
+	},
+
+	{	
+		"raisonSociale" : "AVENIR TELECOM",
+		"addresse" : "22 AVENUE MONTAIGNE 75008 PARIS 8",
+		"isin": "FR0000066052",
+		"LieuCotationPlace": "025", 
+		"LieuCotationMarche": "COMPTANT",
+		"LieuCotationPays": "FRANCE",
+		"deviseDeCotation": "EUR",
+		"Expression du cours": 1, 
+		"codeBareme" : "Fidessa",
+		"eligibiliteTTF": false
+	}
+]

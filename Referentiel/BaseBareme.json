@@ -1,0 +1,20 @@
+
+
+[
+	{	
+		"Bareme" : "FIDESSA",
+		"Tarif" : "T FIDESSA",
+		"ModedeValorisation" : "Forcé",
+		"MontantBrut" : 4371114.08,
+		"MontantNet": 4394718.09,
+		"Frai": 23604.01
+	},
+	{	
+		"Bareme" : "FANA",
+		"Tarif" : "T FANA",
+		"ModedeValorisation" : "Forcé",
+		"MontantBrut" : 43.08,
+		"MontantNet": 43.09,
+		"Frai": 2.01
+	}
+]
